@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sneakerz</string>
+    <string name="air">Air Max</string>
+    <string name="price_placeholder">$200</string>
+    <string name="shoe_desc">Shoe Image</string>
+    <string name="kd13_ep">KD13 EP</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque convallis urna felis, a vulputate libero fringilla sed. Mauris ac nisi consequat, varius mauris id, laoreet sem. Cras scelerisque, diam vitae condimentum rutrum, purus diam tristique dolor, molestie blandit ante leo venenatis odio.</string>
+    <string name="view_more">MORE</string>
+    <string name="select_size">Select Size</string>
+    <string name="add_to_bag">Add to Bag</string>
+</resources>

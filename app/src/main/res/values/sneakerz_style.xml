@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CardItemTitle">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="CardItemPrice">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/faded_white</item>
+    </style>
+
+    <style name="ShoeItemTitle">
+        <item name="android:textSize">26sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/headerTextColor</item>
+    </style>
+
+    <style name="ShoeItemPrice">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/headerTextColor</item>
+    </style>
+
+    <style name="ShoeItemDesc">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/clay</item>
+        <item name="visibleLines">3</item>
+        <item name="isExpanded">false</item>
+        <item name="ellipsizeText">@string/view_more</item>
+        <item name="ellipsizeTextColor">@color/ellipsizeColor</item>
+        <item name="duration">500</item>
+    </style>
+
+    <style name="ShapeAppearanceOverlay.App.Circle" parent="">
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>

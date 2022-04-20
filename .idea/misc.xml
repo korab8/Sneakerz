@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Korab/Documents/Personal/Sneakerz/app/src/main/res/drawable/ic_back.xml" value="0.2555" />
+        <entry key="..\:/Users/Korab/Documents/Personal/Sneakerz/app/src/main/res/layout/activity_main.xml" value="0.67" />
+        <entry key="..\:/Users/Korab/Documents/Personal/Sneakerz/app/src/main/res/layout/category_item.xml" value="0.3625" />
+        <entry key="..\:/Users/Korab/Documents/Personal/Sneakerz/app/src/main/res/layout/color_option_item.xml" value="0.87" />
+        <entry key="..\:/Users/Korab/Documents/Personal/Sneakerz/app/src/main/res/layout/details_fragment.xml" value="0.5212298682284041" />
+        <entry key="..\:/Users/Korab/Documents/Personal/Sneakerz/app/src/main/res/layout/main_fragment.xml" value="0.67" />
+        <entry key="..\:/Users/Korab/Documents/Personal/Sneakerz/app/src/main/res/layout/shoe_item.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
